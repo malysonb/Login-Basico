@@ -1,2 +1,4 @@
 # Login-Basico
-Login básico para API
+Login básico com Bearer para API.
+
+Utilize a vontade como referência.
